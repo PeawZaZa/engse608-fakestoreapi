@@ -1,4 +1,4 @@
-<img width="404" height="912" alt="image" src="https://github.com/user-attachments/assets/732af9fb-3db6-4696-9556-8b5b5173b9e9" /><img width="404" height="912" alt="image" src="https://github.com/user-attachments/assets/732af9fb-3db6-4696-9556-8b5b5173b9e9" /># LAB10-Fakestore-api 
+# LAB10-Fakestore-api 
 
 นายปวริศ คูณศรี 67543210037-7
 
